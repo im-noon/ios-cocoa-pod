@@ -53,7 +53,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "noon" => "noon@acoding.io" }
+  spec.author             = { "n.k" => "nopthakorn@gmail.com" }
 
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
