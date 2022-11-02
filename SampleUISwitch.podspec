@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SampleUISwitch"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "Tutorial bout distributed iOS framework."
 
   # This description is used to generate tags and improve search results.
@@ -90,7 +90,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "SampleUISwitch/*"
+  spec.source_files  = "SampleUISwitch/SampleUISwitch/*"
   # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
