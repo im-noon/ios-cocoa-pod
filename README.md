@@ -1,2 +1,2 @@
 # ios-cocoa-pod
-## Tutorial bout distributed iOS framework
+## Tutorial about distributed iOS framework
